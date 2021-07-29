@@ -11,7 +11,12 @@ Alat Yang Lu butuhin :
 ```
 
 # Step by step 
-* Pergi Ke setting -> ke secret -> pilih yang create screte 
+* Pergi Ke settings -> ke secret -> pilih yang create new respiratory secret 
+* Kasih Nama : NGROK_AUTH_TOKEN
+* Untuk Value nya : Paste ssh ngrok, (ngrok.io)
+* Keluar Dari settings 
+* Pilih Yang "Action"
+* 
 
 
 
