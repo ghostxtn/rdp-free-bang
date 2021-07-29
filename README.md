@@ -1,7 +1,8 @@
 # rdp-free-bang
 Recode doang bg
 
-***DP FREE***
+***RDP FREE***
+
 Alat Yang Lu butuhin :
 ```bash
 - akun github
