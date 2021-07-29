@@ -52,8 +52,6 @@ jobs:
 
     - name: Check Status RDP mu Bang.
 
-    - name: Rdp Mu Active!
-
       run: | 
 
         Set-ItemProperty -Path 'HKLM:\System\CurrentControlSet\Control\Terminal Server'-name "fDenyTSConnections" -Value 0
