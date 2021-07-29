@@ -68,7 +68,7 @@ jobs:
 
     - name: Connect Ke Rdp Lu Bang!.
 
-    - name: Specs : 7gb ram 2 core cpu!
+    - name: Specs 7gb ram 2 core cpu!
 
       run: cmd /c NGROK-CHECK.bat
 
