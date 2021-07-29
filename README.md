@@ -1,13 +1,13 @@
 # rdp-free-bang
 Recode doang bg
 
-***RDP FREE :V***
+***DP FREE***
 Alat Yang Lu butuhin :
-```
+```bash
 - akun github
 - email 
 - kopi:v
-```bash
+```
 
 # Step by step 
 * Pergi Ke setting -> ke secret -> pilih yang create screte 
